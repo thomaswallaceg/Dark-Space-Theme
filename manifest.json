@@ -19,7 +19,7 @@
       "additional_backgrounds": ["img/background.gif"]
     },
     "properties": {
-      "additional_backgrounds_tiling": ["repeat-x"]
+      "additional_backgrounds_tiling": ["repeat"]
     },
     "colors": {
       "button_background_active": "#333333",
