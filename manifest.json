@@ -46,7 +46,7 @@
       "tab_loading": "white",
       "tab_selected": "rgba(200, 200, 200, 0.1)",
       "tab_text": "#ffffff",
-      "tab_line": "rgba(255, 255, 255, 0.05)",
+      "tab_line": "rgba(255, 255, 255, 0.8)",
       "toolbar": "rgba(18, 18, 18, 0.8)",
       "toolbar_bottom_separator": "#101010",
       "toolbar_field": "#000000",
