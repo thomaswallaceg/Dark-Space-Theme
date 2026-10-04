@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.1.2",
+  "version": "1.0.0",
 
   "default_locale": "en",
   "name": "__MSG_extensionName__",
@@ -9,7 +9,7 @@
 
   "browser_specific_settings": {
     "gecko": {
-        "id": "{22b0eca1-8c02-4c0d-a5d7-6604ddd9836e}",
+        "id": "{b0553d0a-f73c-4d80-8854-2a501d45b544}",
         "strict_min_version": "89.0"
       }
   },
